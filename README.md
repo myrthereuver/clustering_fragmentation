@@ -1,9 +1,10 @@
 # Detecting Fragmentation in News Story Chains
 
-This repository is part of the Research Master thesis "Diversifying News Recommendation Systems by Detecting Fragmentation in News Story Chains" by Alessandra Polimeno. The project was supervised by prof. dr. Antske Fokkens, Myrthe Reuver and Sanne Vrijenhoek. 
+This repository is related to the paper and project "Detecting Fragmentation in News Recommender Systems:
+Implementing a Normative Metric with State of The Art NLP".
 
 ## Background 
-This thesis contributes to a line of research that aims to develop measures for diversity in the context of personalized news recommendation systems. The focus lies on the 
+This paper contributes to a line of research that aims to develop measures for diversity in the context of personalized news recommendation systems. The focus lies on the 
 Fragmentation metric, which measures the overlap in news story chains that users are exposed to in their personalized news recommendations. News story chains consist
 of articles that report on the same action that took place at a specific time. 
 
