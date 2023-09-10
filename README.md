@@ -3,7 +3,7 @@
 This repository is related to the paper and project "Improving the Automatic Detection of Fragmentation in News Recommendations".
 
 Further reading can be found in:
-* Alessandra Polimeno's Master thesis: https://github.com/cltl-students/alessandra_polimeno_clustering_fragmentation
+* Alessandra Polimeno's [Master thesis](https://github.com/cltl-students/alessandra_polimeno_clustering_fragmentation)
 * The paper `Improving the Automatic Detection of Fragmentation in News Recommendations', presented at NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19, 2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023), Singapore.
 
 ## Background 
