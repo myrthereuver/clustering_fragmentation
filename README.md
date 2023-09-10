@@ -3,9 +3,9 @@
 This repository is related to the paper and project "Improving the Automatic Detection of Fragmentation in News Recommendations".
 
 Further reading can be found in:
-* Alessandra Polimeno's [Master thesis](https://github.com/cltl-students/alessandra_polimeno_clustering_fragmentation)
 * The [paper]() `Improving the Automatic Detection of Fragmentation in News Recommendations' by Alessandra Polimeno, Myrthe Reuver, Sanne Vrijenhoek, and Antske Fokkens,
   presented at NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19, 2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023).
+* Alessandra Polimeno's [Master thesis](https://github.com/aapolimeno/ClusteringFragmentation/blob/main/ReMA_thesis__Identifying_Fragmentation_in_News_Story_Chains.pdf)
 
 ## Background 
 This paper contributes to a line of research that aims to develop measures for diversity in the context of personalized news recommendation systems. The focus lies on the 
